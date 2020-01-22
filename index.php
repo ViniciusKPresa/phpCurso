@@ -1,3 +1,3 @@
 <?php
-echo "CursoPhp";
+echo "CursoPhp conflito";
 ?>
